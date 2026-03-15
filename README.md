@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Iris Flower Classification using KNN
 
@@ -60,3 +61,7 @@ Predicted Iris species
 
 ## Author
 Kavindu Dulanjana
+=======
+# iris-knn-classifier
+KNN Machine Learning model to classify Iris flowers
+>>>>>>> ad03c1d80d5c8122b5ac0eec99d82f916396fbcf
