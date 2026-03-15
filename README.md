@@ -57,7 +57,7 @@ Input:
 [6.8, 3.0, 1.7, 0.5]
 
 Output:
-Predicted Iris species
+Predicted Iris species: Setosa
 
 ## Author
 Kavindu Dulanjana
