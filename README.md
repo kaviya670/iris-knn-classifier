@@ -56,8 +56,7 @@ iris_knn_project
 Input:
 [6.8, 3.0, 1.7, 0.5]
 
-Output:
-Predicted Iris species: Setosa
+Output: Setosa
 
 ## Author
 Kavindu Dulanjana
